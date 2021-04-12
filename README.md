@@ -23,3 +23,4 @@
 |Dla ilu osób nieprzydatna|span[id^="votes-no"]|useless|int|
 
 ## Etap 2 - Ekstrakcja wszystkich opinii o produkcie z pojedynczej strony.
+
